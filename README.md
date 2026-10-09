@@ -7,6 +7,7 @@
 <img width="1066" height="542" alt="lionking2TGA_2" src="https://github.com/user-attachments/assets/81db7062-222a-40af-8770-e3825f01b7a9" />
 <br>
 <br>
+
 # There were two issues with the DOS version of *Lion King* <br> 
 **( 1 )** In the menu, the game would jump straight to the demo without waiting for the user to press a key. <br> 
 This was a bug in the MS-DOS code: because the delay timing was originally designed for old MS-DOS systems, <br> 
