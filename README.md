@@ -1,4 +1,5 @@
-# There were two issues with the MS-DOS version of *Lion King*, and I fixed them: <br>
+# There were two issues with the MS-DOS version of *Lion King* <br> 
+and I fixed them: <br>
 (1) In the menu, the game would jump straight to the demo without waiting for the user to press a key. <br> 
 This was a bug in the MS-DOS code: because the delay timing was originally designed for old MS-DOS systems, <br> 
 the delay was far too short on modern PCs and emulators, <br> 
