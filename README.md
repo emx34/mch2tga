@@ -1,14 +1,14 @@
 # There were two issues with the MS-DOS version of *Lion King* <br> 
-and I fixed them: <br>
-(1) In the menu, the game would jump straight to the demo without waiting for the user to press a key. <br> 
+**(1)** In the menu, the game would jump straight to the demo without waiting for the user to press a key. <br> 
 This was a bug in the MS-DOS code: because the delay timing was originally designed for old MS-DOS systems, <br> 
 the delay was far too short on modern PCs and emulators, <br> 
 causing the game to skip the menu and launch directly into demo mode.<br>  
---- BUG FIXED ! 
-(2) There was an issue with jumping when using the arrow keys; <br> 
+--- BUG FIXED! <br>
+**(2)** There was an issue with jumping when using the arrow keys; <br> 
 the default jump key was the SPACE bar. <br>
 I have fixed this so that both the SPACE bar and the Up Arrow key function as jump keys—previously, <br>
 the Up Arrow key wasn't being used for this purpose, but now it works, and Simba jumps when it is pressed. <br>
+--- CODE FIXED! <br>
 <br>
 
 # mch2tga
