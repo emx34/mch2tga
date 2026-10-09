@@ -10,6 +10,8 @@ I have fixed this so that both the SPACE bar and the Up Arrow key function as ju
 the Up Arrow key wasn't being used for this purpose, but now it works, and Simba jumps when it is pressed. <br>
 ***--- CODE FIXED!*** <br>
 <br>
+**NEW FIXED "Lionking.exe" = lkfixed.zip**
+<br>
 
 # mch2tga
 █ lion2tga * Lionking PC MsDos platform game --- GFX Reverse Engineering project ! lionking
