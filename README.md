@@ -20,7 +20,7 @@ the Up Arrow key wasn't being used for this purpose, but now it works, and Simba
 <br>
 <img width="1066" height="542" alt="lionking2TGA_2" src="https://github.com/user-attachments/assets/81db7062-222a-40af-8770-e3825f01b7a9" /> <br>
 <br>
-<img width="788" height="416" alt="mch2tga_full" src="https://github.com/user-attachments/assets/f5e9785e-61ba-4ff6-bcf3-f570e4fc6a45" /> 
+<img width="788" height="604" alt="mch2tga_full" src="https://github.com/user-attachments/assets/d6bb767d-11a7-4e14-8793-104152bb0937" />
 <br>
 
 ***The "-map2tga" parameter is highly Complex and Sophisticated*** <br>
