@@ -1,8 +1,8 @@
 
 # There were two issues with the DOS version of *Lion King* <br> 
 **( 1 )** In the menu, the game would jump straight to the demo without waiting for the user to press a key. <br> 
-This was a bug in the MS-DOS code: because the delay timing was originally designed for old MS-DOS systems, <br> 
-the delay was far too short on modern PCs and Emulators, <br> 
+This was a bug in the MS-DOS code: because the **delay timing** was originally designed for old MS-DOS systems, <br> 
+**the delay** was far too short on modern PCs and Emulators, <br> 
 causing the game to skip the menu and launch directly into ***DEMO Mode.***  
 ***--- BUG FIXED!*** <br>
 **( 2 )** There was an issue with jumping when using the arrow keys; <br> 
