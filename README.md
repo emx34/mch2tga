@@ -31,6 +31,8 @@ the Up Arrow key wasn't being used for this purpose, but now it works, and Simba
 
 <br>
 <br>
+<br>
+<br>
 <img width="1024" height="859" alt="l0" src="https://github.com/user-attachments/assets/ba79f846-c58b-45c1-92c4-5b18eecf5be7" />
 <br>
 <br>
