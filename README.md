@@ -18,11 +18,12 @@ the Up Arrow key wasn't being used for this purpose, but now it works, and Simba
 
 <br>
 <br>
-<img width="1066" height="542" alt="lionking2TGA_2" src="https://github.com/user-attachments/assets/81db7062-222a-40af-8770-e3825f01b7a9" />
+<img width="1066" height="542" alt="lionking2TGA_2" src="https://github.com/user-attachments/assets/81db7062-222a-40af-8770-e3825f01b7a9" /> <br>
 <br>
+<img width="788" height="416" alt="mch2tga_full" src="https://github.com/user-attachments/assets/f5e9785e-61ba-4ff6-bcf3-f570e4fc6a45" /> 
 <br>
-<img width="788" height="416" alt="mch2tga_full" src="https://github.com/user-attachments/assets/f5e9785e-61ba-4ff6-bcf3-f570e4fc6a45" />
-<br>
+***map2tga is a highly complex and sophisticated parameter (designed to extract complex level graphics as images with the help of AI)*** 
+
 <br>
 <img width="1024" height="859" alt="l0" src="https://github.com/user-attachments/assets/ba79f846-c58b-45c1-92c4-5b18eecf5be7" />
 <br>
