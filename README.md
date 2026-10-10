@@ -17,7 +17,6 @@ the Up Arrow key wasn't being used for this purpose, but now it works, and Simba
 █ **lion2tga * Lionking PC MsDos platform game --- GFX Reverse Engineering project ! lionking**
 
 <br>
-<br>
 <img width="1066" height="542" alt="lionking2TGA_2" src="https://github.com/user-attachments/assets/81db7062-222a-40af-8770-e3825f01b7a9" /> <br>
 <br>
 <img width="788" height="604" alt="mch2tga_full" src="https://github.com/user-attachments/assets/d6bb767d-11a7-4e14-8793-104152bb0937" />
