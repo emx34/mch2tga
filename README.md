@@ -27,6 +27,9 @@ the Up Arrow key wasn't being used for this purpose, but now it works, and Simba
 ***(it was designed to extract complex level graphics as images with the help of AI)*** <br> 
 ***With this parameter, the entire level is generated from tile graphics and can be saved as a single large image in the form of a MAP*** <br>
 
+<img width="1600" height="1280" alt="L1" src="https://github.com/user-attachments/assets/b2ee07a4-43b6-4e5f-9875-9f022e040ce0" />
+
+<br>
 <br>
 <img width="1024" height="859" alt="l0" src="https://github.com/user-attachments/assets/ba79f846-c58b-45c1-92c4-5b18eecf5be7" />
 <br>
