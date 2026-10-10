@@ -23,7 +23,7 @@ the Up Arrow key wasn't being used for this purpose, but now it works, and Simba
 <img width="788" height="604" alt="mch2tga_full" src="https://github.com/user-attachments/assets/d6bb767d-11a7-4e14-8793-104152bb0937" />
 <br>
 
-***The "-map2tga" parameter is highly Complex and Sophisticated*** <br>
+***<ins>The "-map2tga" parameter is highly Complex and Sophisticated</ins>*** <br>
 ***(it was designed to extract complex level graphics as images with the help of AI)*** <br> 
 ***With this parameter, the entire level is generated from tile graphics and can be saved as a single large image in the form of a MAP*** <br>
 
