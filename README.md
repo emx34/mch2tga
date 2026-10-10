@@ -8,7 +8,7 @@ causing the game to skip the menu and launch directly into ***DEMO-game-mode***
 **( 2 )** There was an issue with jumping when using the arrow keys; <br> 
 the default jump key was the SPACE bar. <br>
 I have fixed this so that both the SPACE bar and the Up Arrow key function as jump keys—previously, <br>
-the Up Arrow key wasn't being used for this purpose, but now it works, and Simba jumps when it is pressed. <br>
+the Up Arrow key wasn't being used for this purpose, but now it works, and Simba jumps when Up Arrow key is pressed. <br>
 ***--- NEW KEY CONTROL CODE ADDED/FIXED!*** <br>
 <br>
 **NEW FIXED "Lionking.exe" = lkfixed.zip**
