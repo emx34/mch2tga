@@ -22,6 +22,7 @@ the Up Arrow key wasn't being used for this purpose, but now it works, and Simba
 <br>
 <img width="788" height="416" alt="mch2tga_full" src="https://github.com/user-attachments/assets/f5e9785e-61ba-4ff6-bcf3-f570e4fc6a45" /> 
 <br>
+
 ***map2tga is a highly complex and sophisticated parameter (designed to extract complex level graphics as images with the help of AI)*** 
 
 <br>
