@@ -13,7 +13,8 @@ the Up Arrow key wasn't being used for this purpose, but now it works, and Simba
 <br>
 **NEW FIXED "Lionking.exe" = lkfixed.zip**
 
-# mch2tga - NOT Released yet, but it could happen soon :-)
+# mch2tga - NOT Released yet, but it could happen soon :-) There are some bugs in the code; I'm working on fixing them..!
+
 █ **lion2tga * Lionking PC MsDos platform game --- GFX Reverse Engineering project ! lionking**
 
 <img width="1066" height="542" alt="lionking2TGA_2" src="https://github.com/user-attachments/assets/81db7062-222a-40af-8770-e3825f01b7a9" /> <br>
