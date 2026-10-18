@@ -13,7 +13,8 @@ the Up Arrow key wasn't being used for this purpose, but now it works, and Simba
 <br>
 **NEW FIXED "Lionking.exe" = lkfixed.zip**
 
-# mch2tga - NOT Released yet, but it could happen soon :-) There are some bugs in the code; I'm working on fixing them..!
+# ■ Mch2tga: 
+# ■ Epfext: (East Point Software) is a tool capable of unpacking and packing *.EPF archive files.
 
 █ **lion2tga * Lionking PC MsDos platform game --- GFX Reverse Engineering project ! lionking**
 
