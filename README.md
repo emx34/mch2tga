@@ -13,8 +13,7 @@ the Up Arrow key wasn't being used for this purpose, but now it works, and Simba
 <br>
 **NEW FIXED "Lionking.exe" = lkfixed.zip**
 
-# ■ Mch2tga: A tool that (1) converts the graphics/sprites of the game *The Lion King* into TGA (Photoshop) format, <br>
-and (2) converts the image back into the game's original graphics file format after it has been modified. 
+# ■ Mch2tga: A tool that (1) converts the graphics/sprites of the game *The Lion King* into TGA (Photoshop) format, and (2) converts the image back into the game's original graphics file format after it has been modified. 
 # ■ Epfext: (East Point Software) is a tool capable of unpacking and packing *.EPF archive files.
 
 █ **lion2tga * Lionking PC MsDos platform game --- GFX Reverse Engineering project ! lionking**
