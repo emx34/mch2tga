@@ -1,3 +1,6 @@
+█ **lion2tga * Lionking PC MsDos platform game --- GFX Reverse Engineering project ! lionking**
+
+<img width="1066" height="542" alt="lionking2TGA_2" src="https://github.com/user-attachments/assets/81db7062-222a-40af-8770-e3825f01b7a9" /> <br>
 # The Lion King (Msdos) Platform game <br> --- GFX Reverse Engineering project
 _____________________________________________________________________________
 
@@ -18,9 +21,6 @@ the Up Arrow key wasn't being used for this purpose, but now it works, and Simba
 ## ■ Mch2tga: A tool that (1) converts the graphics/sprites of the game *The Lion King* into TGA (Photoshop) format, and (2) converts the image back into the game's original graphics file format after it has been modified. --- (Msdos EXE file) Mch2tga is the FULL version. You can modify all of the game's graphics, with the exception of music and voice files. I am not interested in the audio files (any files that lack an extension and consist only of a name are audio files) or the *.amf music files from The Lion King game; there will be no support for these, and I have no intention of creating a tool for them—so don't wait for one..
 ## ■ EPFext2: (EastPointsoftwareFile) is a tool capable of UNPACKING & PACKING = Lionking.EPF (and all other .EPF files from other East Point Software games) game archive file. * Windows command-line ULTRA-Fast version.
 
-█ **lion2tga * Lionking PC MsDos platform game --- GFX Reverse Engineering project ! lionking**
-
-<img width="1066" height="542" alt="lionking2TGA_2" src="https://github.com/user-attachments/assets/81db7062-222a-40af-8770-e3825f01b7a9" /> <br>
 <br>
 <img width="788" height="604" alt="mch2tga_full" src="https://github.com/user-attachments/assets/d6bb767d-11a7-4e14-8793-104152bb0937" />
 <br>
