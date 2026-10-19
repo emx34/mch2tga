@@ -1,8 +1,7 @@
-█ **lion2tga * Lionking PC MsDos platform game --- GFX Reverse Engineering project ! lionking**
+
 
 <img width="1066" height="542" alt="lionking2TGA_2" src="https://github.com/user-attachments/assets/81db7062-222a-40af-8770-e3825f01b7a9" /> <br>
-
-# The Lion King (Msdos) Platform game <br> --- GFX Reverse Engineering project
+# █ The Lion King (Msdos PC) Platform game <br> --- GFX Reverse Engineering project
 _____________________________________________________________________________
 
 ## There were two issues with the DOS version of *Lion King* <br> 
