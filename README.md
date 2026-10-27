@@ -22,7 +22,8 @@ the Up Arrow key wasn't being used for this purpose, but now it works, and Simba
 ## ■ EPFext2: (EastPointsoftwareFile) is a tool capable of UNPACKING & PACKING = Lionking.EPF (and all other .EPF files from other East Point Software games) game archive file. * Windows command-line ULTRA-Fast version.
 
 
-**EPFext2 is a tool capable of UNPACKING & PACKING Lionking.EPF archive. (2.0 ULTRA FAST version)**
+**EPFext2 is a tool capable of UNPACKING & PACKING Lionking.EPF archive. (2.0 ULTRA FAST version)** <br>
+<br>
 <img width="665" height="239" alt="epfext" src="https://github.com/user-attachments/assets/0b5dc49a-ae97-4afe-996f-cbf1a5486976" />
 _____________________________________________________________________________
 <br>
