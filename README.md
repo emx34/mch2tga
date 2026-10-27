@@ -50,7 +50,28 @@ _____________________________________________________________________________
 <img width="1024" height="801" alt="l1" src="https://github.com/user-attachments/assets/063f29a9-1c2f-4971-93e5-8a03e3d87b17" />
 <br>
 <br>
+<br>
 
+____ █  **GREETINGS to friends and people I knew in the past __________________________________________________________** 
+<br>
+<br>
+**The Keyboard Caper (TKC) & ALL PhRoZeNCReW 1997 TEAM - (MeMBeRs & #PC97 IRC friends)** <br>
+<br>
+***EXODUS/c64 , McfISCHER , AKiRA~&~FERiT , BUDU/MURAT , 2K/MORGOTH/BLACKWIND , CASPER/CAGTAY ,<br> 
+RASEL , GNOSTiC , FALCON/GOKHAN , PLASTiCMAN/ESCAPE , REMiX/CLIQUE , KriS/CLIQUE ,<br>
+BLoOdY/CLIQUE , ESQuiRE(Amiga/LEGACY) , CHAO/CAGTAY , DENiZTAS(Stone BBS) , <br>
+FIShER KiNG(Rocka Rolla BBS) , MURaTGüL & YaRRiX/ALPER , Baris(B.T.G.) aND otHER fRieNDs in Turkiye! <br>
+Selamlar ;-) CEM ağabey/ARMA(PC) , ALP ağabey/LACINSOFT(Amiga/Suadiye'90s)<br>
+<br>
+MARQUiS/MARKUS & United Cracking Force (UCF) TEAM: rANDOM , rIDDLER , Dj-PAUL , dA! , nET-KiNG*** <br>
+<br>
+**■ There's n0 music playing in the background right now :-) but imagine there is -> The_Alibi.SiD & X-FACTOR.SiD**<br>
+X-FACTOR SiD DRAX (c64) = https://www.youtube.com/watch?v=inzU_KiYL7Q<br>
+The Alibi SiD LAXITY (c64) = https://www.youtube.com/watch?v=HnfuiYOF9jQ<br>
+<br>
+For some motivation, here's some musics: <br> 
+- Bomfunk MCs - Freestyler (Dirty Version - Radio Edit) <br>
+<br>
 
 
 
